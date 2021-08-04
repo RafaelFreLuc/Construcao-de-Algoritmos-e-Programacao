@@ -1,3 +1,4 @@
 Primeiro arquivo com Git
 
 Teste01.
+Teste02.
